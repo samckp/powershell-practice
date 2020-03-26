@@ -1,0 +1,7 @@
+Computername,IPaddress,Office,Owner
+computer1,192.168.0.1,London,JoeSmith
+computer2,192.168.0.2,London,BobJones
+computer3,192.168.0.3,London,JohnSutton
+computer4,192.168.0.4,London,DavidSouth
+computer5,192.168.0.5,London,RussellSmith
+computer6,192.168.0.6,London,RussellSmith
