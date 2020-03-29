@@ -8,7 +8,7 @@ $diffobj = @()
     
   do{
     
-    if(!($csv1[$count].id -eq $csv2[$count].id)){
+    if(!($csv1[$count].id -eq $csv2[$count].id) -and !($csv1[$count].IPAddress -eq $csv2[$count].IPAddress)){
        $diffobj += $csv1[$count]
     } 
 		 
